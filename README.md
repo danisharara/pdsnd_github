@@ -2,7 +2,7 @@
 07/10/2020
 
 ### Project Title
-US Bike Share Data x2
+US Bike Share Data x3
 
 ### Description
 Analyzes data from US Bike Share systems in three major US cities.
